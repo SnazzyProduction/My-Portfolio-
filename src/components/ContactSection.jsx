@@ -20,8 +20,7 @@ cols-2 lg:pt-32">
 Let's work together 
 </h2> 
 <p className="mt-2 text-lg/8 text-gray-400"> 
-Proin volutpat consequat porttitor cras nullam gravida at orci 
-molestie a eu arcu sed ut tincidunt magna. 
+Let's get in touch and start working together.
 </p> 
 <form action="#" method="POST" className="mt-16"> 
 <div className="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2"> 
